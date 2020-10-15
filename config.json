@@ -2,18 +2,18 @@
         "title" : "My Services",
         "items" : [
                 {
-                        "alt" : "Places",
-                        "icon" : "glyp gly-Places",
+                        "alt" : "Drugs",
+                        "icon" : "glyp gly-drugs",
                         "link" : "https://github.com/kutyla-philipp"
                 },
                 {
-                        "alt" : "Twitter",
-                        "icon" : "gly fa-twitter",
+                        "alt" : "Bait",
+                        "icon" : "glyp gly-bait",
                         "link" : "https://twitter.com/Kukielka_"
                 },
                 {
-                        "alt" : "Docker Hub",
-                        "icon" : "gly fa-docker",
+                        "alt" : "Biohazard",
+                        "icon" : "glyp gly-biohazard",
                         "link" : "https://hub.docker.com/u/kukielka/"
                 }
         ]
